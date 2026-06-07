@@ -1,0 +1,6 @@
+{
+  "name": "SAAS Market Analytics Dashboard",
+  "description": "High-performance SAAS dashboard featuring Stock & Crypto Analytics, API Gateway management, Notification Center, Stripe Checkout simulation, and secure access role switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
